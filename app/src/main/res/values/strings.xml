@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkinCancerDetection</string>
+    <string name="result" />
+
+    <string name="main_title">🔬 Skin Cancer Detection</string>
+    <string name="gallery_button_text">📁 Pilih Gambar</string>
+    <string name="result_placeholder_main">📸 Pilih gambar untuk memulai analisis</string>
+    <string name="disclaimer_text">⚠️ Disclaimer: Aplikasi ini hanya untuk tujuan edukasi dan referensi. Selalu konsultasikan dengan dokter untuk diagnosis medis yang akurat.</string>
+
+    <string name="pick_from_gallery">Pilih Gambar dari Galeri</string>
+    <string name="detection_result">Hasil Deteksi</string>
+</resources>
